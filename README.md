@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maciej Kędzior, I'm 22 software developer from Poland
+- 👋 Hi, I’m Maciej Kędzior, I'm 23 software developer from Poland
 - 👀 I’m interested in computer architecture and puzzle solving
 - 🌱 I’m currently working as Junior DevOps  
 
