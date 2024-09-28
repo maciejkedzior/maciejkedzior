@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciej Kędzior, I'm 24 years old software developer from Poland
 - 👀 I’m interested in computer architecture and puzzle solving
-- 🌱 I’m currently working as Junior DevOps  
+- 🌱 I work as a DevOps 
 
 <!---
 maciejkedzior/maciejkedzior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
